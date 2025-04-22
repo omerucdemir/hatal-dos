@@ -1,0 +1,1 @@
+Hocam burada bazı dosyalar bazı dosyaların içindedir bu dosyalar Activityler appp/src/main/java/aiapp olacak ve diğer xml olanlar şu dosyada olmalılar appp/res/layout ve sonra dosyalar gelicek andromanifest ise res in içinde layout olmayacak
